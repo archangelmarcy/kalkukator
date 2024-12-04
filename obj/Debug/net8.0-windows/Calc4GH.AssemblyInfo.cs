@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calc4GH")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0055dfaca761e425ade2664a8ee3e90f11062aef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17d200100672893fde2193b883f2e4795295a7a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calc4GH")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calc4GH")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
